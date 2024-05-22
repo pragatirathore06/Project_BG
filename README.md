@@ -1,0 +1,1 @@
+This repository hosts a dynamic web page where users can change the background color by clicking on different color options. The project aims to provide an interactive experience for users to customize the visual appearance of the website according to their preferences.
